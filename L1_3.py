@@ -7,4 +7,6 @@ meses = int(input('\nDigite quantos meses: '))
 dias = int(input('\nDigite quantos dias: '))
 idade_dias = anos*365 + meses*30 + dias
 print('\nSua idade em dias é: ', idade_dias, ' dias')
+print()
+print('='*25, 'Fim!', '='*25)
 
